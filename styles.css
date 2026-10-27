@@ -468,8 +468,7 @@ p {
 }
 
 .project-featured {
-  grid-row: span 2;
-  min-height: 100%;
+  min-height: 300px;
   padding: 29px;
   background: #263d35;
   border-color: #263d35;
